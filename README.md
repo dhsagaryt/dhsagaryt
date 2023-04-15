@@ -1,27 +1,21 @@
-<br clear="both">
-
 <div align="center">
-  <img height="240" src="https://scontent.fccu15-1.fna.fbcdn.net/v/t39.30808-6/340630288_220815083874231_2019699353302677885_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=0_qthr6CkSYAX-luhjv&_nc_ht=scontent.fccu15-1.fna&oh=00_AfBi71eQU7NEmyreGR-zE1beOx1ZeUNwExi848-le1uNfg&oe=6440041A"  />
+  <img height="340" src="https://scontent.fccu15-1.fna.fbcdn.net/v/t39.30808-6/340630288_220815083874231_2019699353302677885_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=0_qthr6CkSYAX-luhjv&_nc_ht=scontent.fccu15-1.fna&oh=00_AfBi71eQU7NEmyreGR-zE1beOx1ZeUNwExi848-le1uNfg&oe=6440041A"  />
 </div>
 
 ###
 
-<p align="center">Data Analytics | Digital Marketing | SEO | Full Stack Web Developer | UI/UX Designer</p>
+<br clear="both">
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="codepen logo"  />
+</div>
 
 ###
 
 <h1 align="center"></h1>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
-</div>
 
 ###
 
