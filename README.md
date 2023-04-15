@@ -21,8 +21,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sagar-Mondal-Git&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Sagar-Mondal-Git&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" height="260" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sagar-Mondal-Git&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sagar-Mondal-Git&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="240" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Sagar-Mondal-Git&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" height="260" alt="streak graph"  />
 </div>
 
 ###
@@ -73,15 +74,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" width="60" alt="wordpress logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" width="60" alt="woocommerce logo"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sagar-Mondal-Git&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false&order=2" height="250" alt="languages graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Sagar-Mondal-Git/Sagar-Mondal-Git/blob/output/snake.svg" alt="Snake animation" />
 
 ###
