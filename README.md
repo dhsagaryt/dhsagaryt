@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="240" src="https://scontent.fccu15-1.fna.fbcdn.net/v/t39.30808-6/340630288_220815083874231_2019699353302677885_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=0_qthr6CkSYAX-luhjv&_nc_ht=scontent.fccu15-1.fna&oh=00_AfBi71eQU7NEmyreGR-zE1beOx1ZeUNwExi848-le1uNfg&oe=6440041A"  />
+  <img width="100%" src="https://scontent.fccu15-1.fna.fbcdn.net/v/t39.30808-6/340630288_220815083874231_2019699353302677885_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=0_qthr6CkSYAX-luhjv&_nc_ht=scontent.fccu15-1.fna&oh=00_AfBi71eQU7NEmyreGR-zE1beOx1ZeUNwExi848-le1uNfg&oe=6440041A"  />
 </div>
 
 ###
@@ -21,9 +21,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sagar-Mondal-Git&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sagar-Mondal-Git&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="240" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Sagar-Mondal-Git&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" height="260" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sagar-Mondal-Git&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" width="100%" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Sagar-Mondal-Git&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" width="100%" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sagar-Mondal-Git&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&order=2" width="100%" alt="languages graph"  />
 </div>
 
 ###
